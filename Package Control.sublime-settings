@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Align Arguments",
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"Bump",
+		"Can I Use",
+		"Color Highlighter",
+		"Console Wrap",
+		"CSScomb",
+		"DiffView",
+		"DocBlockr",
+		"Emmet",
+		"ESLint-Formatter",
+		"FileDiffs",
+		"GitGutter",
+		"JavaScript Snippets",
+		"JSHint",
+		"JSHint Gutter",
+		"MarkdownEditing",
+		"Package Control",
+		"Random Everything",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Terminal"
+	]
+}

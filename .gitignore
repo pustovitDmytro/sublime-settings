@@ -1,0 +1,18 @@
+# OS generated files #
+######################
+.DS_Store
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#IGNORE ST FILES
+#####################
+bh_unicode_properties.cache
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+
