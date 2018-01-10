@@ -20,17 +20,19 @@
 		"Emmet",
 		"ESLint-Formatter",
 		"FileDiffs",
+		"Generic Config",
 		"GitGutter",
 		"JavaScript Snippets",
 		"JSHint",
 		"JSHint Gutter",
 		"MarkdownEditing",
 		"Package Control",
+		"Package Reloader",
 		"Random Everything",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"Terminal"
 	]
 }
