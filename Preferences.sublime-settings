@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/User/SublimeLinter/Twilight (SL).tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"detect_indentation": false,
 	"folder_exclude_patterns":
 	[
@@ -19,6 +19,13 @@
 	[
 		120
 	],
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_icons_materialized": true,
+	"theme_sidebar_close_always_visible": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_file_icons_hidden": true,
+	"theme_sidebar_folder_atomized": true,
+	"theme_sidebar_folder_materialized": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
