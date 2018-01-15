@@ -39,6 +39,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"Terminal"
+		"Terminal",
+		"TernJS"
 	]
 }
