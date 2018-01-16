@@ -1,6 +1,9 @@
 {
-	"default_keybindings": false,
-    "file_extensions": ["all"],
+	"default_keybindings": true,
+	"file_extensions":
+	[
+		"all"
+	],
 	"search_colors_in":
 	{
 		"all_content":
@@ -10,11 +13,11 @@
 				"color_scheme":
 				{
 					"enabled": true,
-					"highlight_style": "filled"
+					"highlight_style": "underlined_solid"
 				},
 				"gutter_icons":
 				{
-					"enabled": true,
+					"enabled": false,
 					"icon_style": "circle"
 				},
 				"phantoms":
@@ -32,12 +35,12 @@
 			{
 				"color_scheme":
 				{
-					"enabled": false,
-					"highlight_style": "filled"
+					"enabled": true,
+					"highlight_style": "outlined"
 				},
 				"gutter_icons":
 				{
-					"enabled": false,
+					"enabled": true,
 					"icon_style": "circle"
 				},
 				"phantoms":
@@ -56,7 +59,7 @@
 				"color_scheme":
 				{
 					"enabled": false,
-					"highlight_style": "filled"
+					"highlight_style": "outlined"
 				},
 				"gutter_icons":
 				{
@@ -65,7 +68,7 @@
 				},
 				"phantoms":
 				{
-					"enabled": true,
+					"enabled": false,
 					"length": 2,
 					"style": "right"
 				}
