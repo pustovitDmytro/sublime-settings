@@ -21,3 +21,21 @@ change to
 if color_sel.run() == getattr(Gtk, 'RESPONSE_OK', Gtk.ResponseType):
 and save.
 ```
+
+
+TernJs
+Windows:
+/Users/<your-username>/.tern-config
+```
+{
+  "plugins": {
+    "node": {},
+    "es_modules": {}
+  },
+  "libs": [
+    "ecma5",
+    "ecma6"
+  ],
+  "ecmaVersion": 6
+}
+```
