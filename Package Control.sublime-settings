@@ -40,6 +40,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"Terminal"
+		"Terminal",
+		"tern_for_sublime"
 	]
 }
