@@ -10,7 +10,8 @@
 	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
+	"auto_complete_triggers": [ {"selector": "text.html", "characters": "<"}, {"selector": "source.js", "characters": "."} ],
+    "ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
