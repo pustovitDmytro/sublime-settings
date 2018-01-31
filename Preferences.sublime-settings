@@ -1,5 +1,16 @@
 {
 	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"detect_indentation": false,
 	"folder_exclude_patterns":
@@ -10,8 +21,7 @@
 	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"auto_complete_triggers": [ {"selector": "text.html", "characters": "<"}, {"selector": "source.js", "characters": "."} ],
-    "ignored_packages":
+	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
